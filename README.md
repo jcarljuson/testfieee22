@@ -8,18 +8,18 @@ The models are designed to analyze **astronomical flux/light curve data** to ass
 
 mybad it's still not organized well
 
-## 📌 Project Overview
+## Project Overview
 
-- 🛰️ Event: **NASA International Space Apps Challenge**
-- 🔭 Domain: **Astronomy / Exoplanet Detection**
-- 🤖 Tech: **Machine Learning**
-- 📁 Model Format: `.pkl` (Pickle)
+- Event: **NASA International Space Apps Challenge**
+- Domain: **Astronomy / Exoplanet Detection**
+- Tech: **Machine Learning**
+- Model Format: `.pkl` (Pickle)
 
 These models were trained using processed space telescope data and are intended for **research, experimentation, and educational purposes**.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ├── K2Models/
 │ ├── (pkl files)
@@ -46,7 +46,7 @@ keplerModels
 
 README.md
 
-## 🧪 Model Details
+## Model Details
 
 - Input: **Flux / Light Curve data / Space Data**
 - Output: **Exoplanet classification or prediction**
