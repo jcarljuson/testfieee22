@@ -4,9 +4,9 @@ This repository contains trained **machine learning models (.pkl)** developed fo
 
 The models are designed to analyze **astronomical flux/light curve data** to assist in **exoplanet detection and classification**.
 
----
-
 mybad it's still not organized well
+
+I GOT TOO LAZY TO EVEN FIX ANYTHING !!!!!!!!
 
 ## Project Overview
 
@@ -16,24 +16,6 @@ mybad it's still not organized well
 - Model Format: `.pkl` (Pickle)
 
 These models were trained using processed space telescope data and are intended for **research, experimentation, and educational purposes**.
-
----
-
-## Repository Structure
-
-├── K2Models/
-│ ├── (pkl files)
-│ 
-├── TESSModels
-│ └── (pkl files)
-│ 
-├── datasetsTESS_TOI_KEPLER/
-│ └── (csv files)
-│ 
-├── keplerModels/
-│ └── (pkl files)
-│ 
-└── README.md
 
 
 K2Models
